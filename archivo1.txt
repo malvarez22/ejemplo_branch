@@ -1,4 +1,8 @@
 Hola Vale, este archivo lo modifico Matias
+<<<<<<< HEAD
 
 
 Esta es una modificación para conflicto!! De Matias
+=======
+Y Vale lo modifico a la vez!!
+>>>>>>> 1f05c619768bf92bd4946eade5ec5c3101ce1abc
